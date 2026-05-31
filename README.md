@@ -6,7 +6,7 @@ Centraliza o botão Iniciar do Windows 10 utilizando APIs Win32.
 
 - [x] Localização do botão Start
 - [x] Reposicionamento via MoveWindow
-- [ ] Centralização automática
+- [x] Centralização automática
 - [ ] Persistência após reinicialização
 - [ ] Centralização do menu Iniciar
 
