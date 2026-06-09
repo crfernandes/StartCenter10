@@ -10,7 +10,9 @@ Centraliza o botão Iniciar do Windows 10 utilizando APIs Win32.
 - [x] Persistência após reinicialização
 - [x] Centralização do menu Iniciar
 - [x] Validação multimonitores
-- [ ] Testes finais 
+- [x] Testes finais
+- [x] V1 Funcional, congelada.
+- [ ] V2 Em desenvolvimento ativo
 
 ## Projeto
 
